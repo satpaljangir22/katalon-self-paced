@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_India</name>
+   <tag></tag>
+   <elementGuidId>62cb15b6-1cc6-4d8c-a232-44e8c546ec72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/div/p[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-black.mt-10 > span.font-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;India&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bb220f9-ba72-4cf5-a957-2b2b7cab799a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold</value>
+      <webElementGuid>b0f97e45-f50b-4afe-b3d7-88a103eee870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> India</value>
+      <webElementGuid>ad884317-2b45-404a-b96f-7573be15262a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;learn_right&quot;]/div[@class=&quot;rounded&quot;]/div[@class=&quot;p-20&quot;]/div[@class=&quot;p-15&quot;]/p[@class=&quot;text-black mt-10&quot;]/span[@class=&quot;font-bold&quot;]</value>
+      <webElementGuid>1d953305-5488-4893-8d74-f1e926ff54de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/div/p[2]/span</value>
+      <webElementGuid>0474b03a-0916-42e7-81ef-ff2a717b38dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geolocation'])[1]/following::span[2]</value>
+      <webElementGuid>fc27a253-8c18-4dc9-acf4-3c093618038f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geolocation Testing'])[1]/following::span[2]</value>
+      <webElementGuid>7e3de104-32ed-406f-b6be-e204fefdc6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products &amp; Features'])[1]/preceding::span[4]</value>
+      <webElementGuid>2c7815a2-8a24-4f4a-9f82-3068d175abeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='India']/parent::*</value>
+      <webElementGuid>2ef19818-6ad7-4a71-9f36-0fc4a66070a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/span</value>
+      <webElementGuid>282d7d2d-9351-4e38-9f0c-7e093fc62cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' India' or . = ' India')]</value>
+      <webElementGuid>75b3eac3-bd5f-46af-b508-8da8b23e0483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

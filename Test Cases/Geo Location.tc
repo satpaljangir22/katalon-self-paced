@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check the alert with progress bar model</description>
+   <name>Geo Location</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7ced2e7-f79f-4124-912e-25925eb25c48</testCaseGuid>
+</TestCaseEntity>

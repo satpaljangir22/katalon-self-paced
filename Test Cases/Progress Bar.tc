@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Progress Bar</name>
+   <tag>geo_location_test</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cd7c377-4b73-4aee-9067-e7101c4c378e</testCaseGuid>
+</TestCaseEntity>

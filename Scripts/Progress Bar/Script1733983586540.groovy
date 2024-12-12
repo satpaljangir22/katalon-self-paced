@@ -21,10 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
-WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Drag  Drop Sliders'))
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Progress Bar Modal'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/output_79'), 
-    '79')
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Show dialog (Autoclose after 5 seconds)'))
 
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/h3_Hello Mr. Alert'), 
+    'Hello Mr. Alert !')
 
