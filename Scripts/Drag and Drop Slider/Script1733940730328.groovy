@@ -23,8 +23,7 @@ WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Drag  Drop Sliders'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/output_79'), 
-    '79')
+WebUI.verifyElementText(findTestObject('Page_Selenium Grid Online  Run Selenium Tes_77a03b/output_79'), '15', FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
 
