@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with valid credentials and make an appointment</description>
+   <name>Make an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65e73e07-b5fe-4b38-a8ae-421480c8b11d</testCaseGuid>
+</TestCaseEntity>

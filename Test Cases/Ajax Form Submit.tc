@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Demo of Ajax Form Submit</description>
+   <name>Ajax Form Submit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be363abc-af07-40fe-98ad-90966de23fce</testCaseGuid>
+</TestCaseEntity>

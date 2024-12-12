@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Demo of using Bootstrap list box</description>
+   <name>Bootstrap List Box</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19aeb6c9-6dbb-4c4f-9fca-cfa4b5c8290e</testCaseGuid>
+</TestCaseEntity>

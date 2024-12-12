@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>c194fcc7-ab5d-4485-be8e-cd2f96852e7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.block.mx-auto.border.border-black.mt-10.px-10.py-2.rounded.text-black.btn.btn-default.btn-sm.move-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;>&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e11f6932-313d-4152-9d6d-1d2550df465f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block mx-auto border border-black mt-10 px-10 py-2 rounded text-black btn btn-default btn-sm move-right</value>
+      <webElementGuid>da435648-108c-45c6-9f94-520849f87dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ></value>
+      <webElementGuid>0f27cf8f-9ffa-4d95-a8a8-b06ff02e3584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;learn_right&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;list-arrows w-2/12 text-center&quot;]/button[@class=&quot;block mx-auto border border-black mt-10 px-10 py-2 rounded text-black btn btn-default btn-sm move-right&quot;]</value>
+      <webElementGuid>651e3c29-047f-4e52-8975-215400eec39d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>c9fc5370-4a1f-4f2c-b299-b34e501dd483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::button[1]</value>
+      <webElementGuid>7aaee8a1-0f24-4d2e-a4a2-6100c82a2d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mynamaki'])[1]/following::button[2]</value>
+      <webElementGuid>74aa55e6-8a2a-4259-a20f-84bde8103763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::button[1]</value>
+      <webElementGuid>2ef69e27-6d44-4a8e-8b1a-24e5d6a39701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milan'])[1]/preceding::button[1]</value>
+      <webElementGuid>88f4a108-ee71-449d-a94f-f1b9f0005780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>92c2341b-80c9-46f9-b753-26465774f60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' >' or . = ' >')]</value>
+      <webElementGuid>131a4e32-57b5-4e20-a061-ae0eefb5856f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

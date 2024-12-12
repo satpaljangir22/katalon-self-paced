@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with valid credentials</description>
+   <name>Valid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9efa0b2-5fc9-4017-bc75-b1a6bd3ef5ac</testCaseGuid>
+</TestCaseEntity>

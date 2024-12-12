@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Demoing the drag and drop slider working</description>
+   <name>Drag and Drop Slider</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a8c4c59-1afa-47da-a2d8-6d170e833b5f</testCaseGuid>
+</TestCaseEntity>
