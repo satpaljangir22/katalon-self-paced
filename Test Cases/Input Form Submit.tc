@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>submitting an input form</description>
+   <name>Input Form Submit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cda8b659-ec94-4a97-adba-477b80842d3b</testCaseGuid>
+</TestCaseEntity>

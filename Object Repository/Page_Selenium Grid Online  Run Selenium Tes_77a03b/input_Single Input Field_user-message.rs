@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Single Input Field_user-message</name>
+   <tag></tag>
+   <elementGuidId>9e690f32-1daa-41cc-ad0f-40d1d687ebfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='user-message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#user-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Please enter your Message&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>07ebfb50-3a69-4ed4-ada6-6dde768e3801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e92a83a7-f974-417a-b2f1-f694ef139932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-gray-550 w-full h-35 rounded px-10</value>
+      <webElementGuid>20d88e69-807d-4610-b1db-745dae42bc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Please enter your Message</value>
+      <webElementGuid>094340d2-5662-4d2d-be42-847442855adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user-message</value>
+      <webElementGuid>f93a69f6-15fe-43e5-847b-c654c6d8141c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full px-15 smtablet:mt-20&quot;]/div[@class=&quot;mt-30 rounded&quot;]/div[@class=&quot;px-10 pt-20 pb-5&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-8/12 smtablet:w-full left-input mr-20 pr-30 smtablet:mr-0 smtablet:pr-0&quot;]/input[@id=&quot;user-message&quot;]</value>
+      <webElementGuid>059c467a-e630-457e-9997-9f94fc2cd237</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='user-message']</value>
+      <webElementGuid>377de588-b38f-4bd1-9d39-458142ca0d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div/div/div[2]/div/div/input</value>
+      <webElementGuid>7ec757d6-72c6-43af-a9b6-b1c2da9fcb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>94d61d95-883d-48c5-8c0e-d92efc36e6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Please enter your Message' and @id = 'user-message']</value>
+      <webElementGuid>c0663c08-513f-4aba-9189-95ea4cec913e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
